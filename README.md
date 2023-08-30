@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Victoria-BI
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python
+- 👋 Hi, my name is Victoria Onigbinde
+- 👀 I’m interested in data analysis using advanced excel, SQL and Power BI
+- 🌱 I enjoy creating dashboards to make data driven decisions
 - 💞️ I’m looking to collaborate on Data Analysis projects
   
 
